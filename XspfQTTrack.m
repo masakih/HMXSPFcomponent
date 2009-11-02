@@ -8,8 +8,8 @@
 
 #import "XspfQTTrack.h"
 
-#import <HMExtensions/NSURL-XspfQT-Extensions.h>
-#import <HMExtensions/NSPathUtilities-XspfQT-Extensions.h>
+#import "NSURL-XspfQT-Extensions.h"
+#import "NSPathUtilities-XspfQT-Extensions.h"
 
 @interface XspfQTTrack (Private)
 - (void)setSavedDateWithTimeInterval:(NSTimeInterval)interval;
