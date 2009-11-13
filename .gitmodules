@@ -1,0 +1,3 @@
+[submodule "extFiles/HMExtensions"]
+	path = extFiles/HMExtensions
+	url = git://github.com/masakih/HMExtensions.git
